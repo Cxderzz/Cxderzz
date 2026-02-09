@@ -1,10 +1,6 @@
 ## Hi there 👋
 
-I’m Soren, an aspiring junior software engineer, currently studying a dual bachelor of Engineering (Computer and Software Systems) and Business (Entrepreneurship) at Queensland University of Technology. I have a passion for success and am a self-proclaimed life-long learner.
-
-## On the professional side of things
-
-I currently run a business called [TypeTech](https://typetech.au/) where I ship client sites and provide technology advice to local businesses around the coast and in Brisbane. While doing this, I interact with technologies such as WordPress & Astro to deliver sites that rank well on Google without compromise. 
+I’m Soren, a software engineer working on .NET systems. I have a passion for success and am a self-proclaimed life-long learner. Reach out on my [linkedin](https://www.linkedin.com/in/soren-kelly/) if you want to connect.
 
 ### My skills
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
